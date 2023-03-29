@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @melbinmv
+- 👋 Hi, I’m Melbin
 - 👀 I’m interested in Python and Machine Learning. I'm familiar with Django.
 - 🌱 I’m currently learning Neural Networks and Machine Learning.
 - 💞️ I’m looking to collaborate on projects related to Machine Learning and AI.
