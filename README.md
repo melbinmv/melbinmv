@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Melbin
-- 👀 I’m interested in Python and Machine Learning.
-- 🌱 I’m currently learning Neural Networks and Machine Learning.
-- 💞️ I’m looking to collaborate on projects related to Machine Learning and AI.
+- 👀 I’m interested in Python, Machine Learning and Data Engineering
 - 📫 melbinmartin17@gmail.com
 
 <!---
